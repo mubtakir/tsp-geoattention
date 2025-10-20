@@ -52,8 +52,8 @@ git push -u origin main
 ```
 
 عند الطلب:
-- **Username:** baserah-ai
-- **Password:** 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
+- **Username:** mubtakir
+- **Password:** [استخدم التوكن الخاص بك]
 
 ---
 

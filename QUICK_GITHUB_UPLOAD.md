@@ -61,7 +61,7 @@ git push -u origin main
 
 1. **قدم الورقة البحثية للمجلة**
    - استخدم: RESEARCH_PAPER.md أو RESEARCH_PAPER_AR.md
-   - أضف رابط GitHub: https://github.com/baserah-ai/tsp-geoattention
+   - أضف رابط GitHub: https://github.com/mubtakir/tsp-geoattention
 
 2. **شارك المشروع مع المجتمع**
    - أضف topics: `tsp`, `optimization`, `heuristic`, `python`
