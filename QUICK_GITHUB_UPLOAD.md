@@ -4,7 +4,7 @@
 
 ```
 Username: mubtakir
-Token: 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
+Token: [استخدم التوكن الخاص بك]
 Repository: https://github.com/mubtakir/tsp-geoattention
 ```
 
@@ -34,7 +34,7 @@ git remote add origin https://github.com/mubtakir/tsp-geoattention.git
 
 # عند الطلب:
 # Username: mubtakir
-# Password: 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
+# Password: [استخدم التوكن الخاص بك]
 
 git push -u origin main
 ```

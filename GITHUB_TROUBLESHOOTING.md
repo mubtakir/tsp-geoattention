@@ -25,7 +25,7 @@ fatal: repository 'https://github.com/baserah-ai/tsp-geoattention.git/' not foun
 
 التوكن الخاص بك:
 ```
-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
+[استخدم التوكن الخاص بك]
 ```
 
 **تأكد من:**
