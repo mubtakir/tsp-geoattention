@@ -1,5 +1,9 @@
 # TSP-GeoAttention: A Hybrid Practical Approach to the Traveling Salesman Problem
 
+**Author:** Basil Yahya Abdullah
+**GitHub:** https://github.com/mubtakir/tsp-geoattention
+**Date:** October 2024
+
 ## Abstract
 
 This paper presents **TSP-GeoAttention**, a hybrid computational approach to solving the Traveling Salesman Problem (TSP) that combines spatial geometry, principles from classical physics, and attention mechanisms from artificial intelligence. **This work does NOT claim to solve the P vs NP millennium problem, nor does it provide a mathematical proof for any theoretical advancement.** Instead, it presents a practical software solution that achieves 85-95% accuracy compared to optimal solutions, suitable for real-world applications where near-optimal solutions are acceptable.
@@ -299,4 +303,5 @@ Algorithm TSP-GeoAttention(cities, grid_size)
 **Date:** 2024
 **Author:** Basil Yahya Abdullah
 **Status:** Ready for Publication
+https://github.com/mubtakir/tsp-geoattention.git
 
