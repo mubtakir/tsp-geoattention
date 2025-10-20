@@ -233,7 +233,7 @@ This is **NOT** a theoretical breakthrough. It is a **practical engineering solu
 
 All source code, documentation, and test files are available on GitHub:
 
-**Repository:** https://github.com/baserah-ai/tsp-geoattention
+**Repository:** https://github.com/mubtakir/tsp-geoattention
 
 The repository includes:
 - Complete Python implementation

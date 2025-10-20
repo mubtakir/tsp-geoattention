@@ -28,7 +28,7 @@
 
 ```bash
 # عند الطلب من كلمة المرور، استخدم التوكن بدلاً من كلمة المرور:
-# Username: baserah-ai
+# Username: mubtakir
 # Password: [الصق التوكن هنا]
 ```
 
@@ -80,7 +80,7 @@ git init
 git add .
 git commit -m "Initial commit: TSP-GeoAttention - Hybrid Practical Approach"
 git branch -M main
-git remote add origin https://github.com/baserah-ai/tsp-geoattention.git
+git remote add origin https://github.com/mubtakir/tsp-geoattention.git
 
 # عند الطلب:
 # Username: mubtakir

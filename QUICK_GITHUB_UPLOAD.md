@@ -3,9 +3,9 @@
 ## ✅ بيانات حسابك:
 
 ```
-Username: baserah-ai
-Token: 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
-Repository: https://github.com/baserah-ai/tsp-geoattention
+Username: mubtakir
+Token: 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
+Repository: https://github.com/mubtakir/tsp-geoattention
 ```
 
 ---
@@ -14,11 +14,8 @@ Repository: https://github.com/baserah-ai/tsp-geoattention
 
 ### الخطوة 1: إنشاء المستودع على GitHub
 
-1. اذهب إلى: https://github.com/new
-2. اسم المستودع: `tsp-geoattention`
-3. الوصف: `TSP-GeoAttention - Hybrid Practical Approach`
-4. اختر: **Public**
-5. اضغط: **Create repository**
+✅ المستودع موجود بالفعل على:
+https://github.com/mubtakir/tsp-geoattention
 
 ---
 
@@ -33,11 +30,11 @@ git init
 git add .
 git commit -m "Initial commit: TSP-GeoAttention - Hybrid Practical Approach"
 git branch -M main
-git remote add origin https://github.com/baserah-ai/tsp-geoattention.git
+git remote add origin https://github.com/mubtakir/tsp-geoattention.git
 
 # عند الطلب:
-# Username: baserah-ai
-# Password: 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
+# Username: mubtakir
+# Password: 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
 
 git push -u origin main
 ```

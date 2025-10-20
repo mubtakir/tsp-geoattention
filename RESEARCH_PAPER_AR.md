@@ -235,7 +235,7 @@ TSP-GeoAttention هو **نهج عملي هجين** لحل TSP يحقق:
 
 جميع الأكواد المصدرية والتوثيق وملفات الاختبار متاحة على GitHub:
 
-**المستودع:** https://github.com/baserah-ai/tsp-geoattention
+**المستودع:** https://github.com/mubtakir/tsp-geoattention
 
 يتضمن المستودع:
 - تطبيق Python كامل
