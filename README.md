@@ -1,5 +1,8 @@
 # TSP-GeoAttention: Hybrid Practical Approach to Traveling Salesman Problem
 
+**Author:** Basil Yahya Abdullah
+**GitHub:** [@mubtakir](https://github.com/mubtakir)
+
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Tests: 25/25](https://img.shields.io/badge/tests-25%2F25-brightgreen.svg)](./tsp_geoattention/test_tsp_solver.py)
@@ -210,9 +213,9 @@ See [requirements.txt](./requirements.txt) for full list.
 If you use this work, please cite:
 
 ```bibtex
-@software{mubtakir2024tspgeoattention,
+@software{basil2024tspgeoattention,
   title={TSP-GeoAttention: Hybrid Practical Approach to Traveling Salesman Problem},
-  author={Mubtakir},
+  author={Basil Yahya Abdullah},
   year={2024},
   url={https://github.com/mubtakir/tsp-geoattention}
 }
@@ -222,6 +225,7 @@ If you use this work, please cite:
 
 ## 📧 Contact & Support
 
+- **Author**: Basil Yahya Abdullah
 - **GitHub**: https://github.com/mubtakir/tsp-geoattention
 - **Issues**: Report bugs and feature requests on GitHub Issues
 - **Discussions**: Join discussions on GitHub Discussions
